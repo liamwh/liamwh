@@ -1,11 +1,9 @@
-## I’m [Liam Woodleigh-Hardinge](https://liamwh.com/).
+## I’m [Liam](https://liamwh.com/). Welcome to my profile! 👋
 
-I'm a DevOps engineer who enjoys architecting and developing highly-automated, streamlined solutions.
+I'm a DevOps engineer who enjoys architecting and developing highly-automated, streamlined solutions. You can find out more about me on my website [liamwh.com].(https://liamwh.com/) 
 
-- 💬 Ask me about PowerShell, home-automation, cloud-infrastructure and rock climbing.
+- 💬 Ask me about PowerShell, home-automation, DevOps, cloud-infrastructure and rock climbing.
 - 📫 How to reach me: liam@liamwh.com
-
-I am part of the Cloud Infrastructure team successully deliverying a secure and reliable private cloud to ING. To achieve this I combine my skillsets of infrastructure operations with DevOps, Scrum, CI/CD and advanced automation.
 
 ---
 
