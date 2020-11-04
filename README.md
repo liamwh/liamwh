@@ -1,6 +1,6 @@
 ## I’m [Liam](https://liamwh.com/). Welcome to my profile! 👋
 
-I'm a DevOps engineer who enjoys architecting and developing highly-automated, streamlined solutions. You can find out more about me on my website [liamwh.com].(https://liamwh.com/) 
+I'm a DevOps engineer who enjoys architecting and developing highly-automated, streamlined solutions. You can find out more about me on my website [liamwh.com](https://liamwh.com/).
 
 - 💬 Ask me about PowerShell, home-automation, DevOps, cloud-infrastructure and rock climbing.
 - 📫 How to reach me: liam@liamwh.com
