@@ -2,7 +2,7 @@
 
 I'm a DevOps engineer who enjoys architecting and developing highly-automated, streamlined solutions. You can find out more about me on my website [liamwh.com](https://liamwh.com/).
 
-- 💬 Ask me about PowerShell, home-automation, DevOps, cloud-infrastructure and rock climbing.
+- 💬 Ask me about Infrastructure as Code, PowerShell, home-automation, GitOps, DevOps, cloud-infrastructure and rock climbing.
 - 📫 How to reach me: liam@liamwh.com
 
 ---
