@@ -1,8 +1,8 @@
 ## I’m [Liam](https://liamwh.com/). Welcome to my profile! 👋
 
-I'm a DevOps engineer who enjoys architecting and developing automated IT infrastructure and backend solutions. You can find out more about me on my website [liamwh.com](https://liamwh.com/).
+I'm a DevOps Engineer enthusiastic architecting and developing best-practice, automated IT infrastructure and backend solutions.
 
-- 💬 Ask me about Infrastructure as Code, PowerShell, home-automation, GitOps, DevOps, cloud-infrastructure and rock climbing.
+- 💬 Ask me about Golang, Microservice Design Patterns, Event Driven Architecture, Infrastructure as Code, GitOps, DevOps, PowerShell, home-automation, cloud-infrastructure and rock climbing.
 - 📫 How to reach me: liam@liamwh.com
 
 ---
