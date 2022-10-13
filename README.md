@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer enthusiastic architecting and developing best-practice, automated IT infrastructure and backend solutions.
 
-- 💬 Ask me about Golang, Microservice Design Patterns, Event Driven Architecture, Infrastructure as Code, GitOps, DevOps, PowerShell, home-automation, cloud-infrastructure and rock climbing.
+- 💬 Ask me about Golang, Microservice Design Patterns, Event Driven Architecture, Infrastructure as Code, GitOps, DevOps, PowerShell, home-automation, cloud infrastructure and rock climbing.
 - 📫 How to reach me: liam@liamwh.com
 
 ---
