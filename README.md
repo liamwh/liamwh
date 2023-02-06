@@ -13,7 +13,6 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
   - PowerShell
   - Cloud Infrastructure ☁️
   - Home Automation 🏠🦾
-  - Squash 🌑
   - and Rock Climbing 🧗‍♂️
 
 ---
