@@ -4,13 +4,12 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 
 - 💬 Let's talk about:
   - Rust 🦀
-  - Golang 
+  - Golang
   - Microservice Design Patterns 👨‍🎨
   - Event Driven Architecture
   - Infrastructure as Code 🧑‍💻
   - GitOps
-  - DevOps (Way-of-Working)
-  - PowerShell
+  - DevOps (Way-of-Working) ♾
   - Cloud Infrastructure ☁️
   - Home Automation 🏠🦾
   - and Rock Climbing 🧗‍♂️
