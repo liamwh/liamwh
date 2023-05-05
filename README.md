@@ -1,16 +1,16 @@
 ## I’m [Liam](https://liamwh.com/). Welcome to my profile! 👋
 
-I'm a DevOps-turned-Software Engineer enthusiastic about architecting and developing automated, secure and reliable software solutions that adhere to best practices and standards.
+I'm a DevOps-turned-Software Engineer enthusiastic about architecting and developing automated, secure and reliable software solutions.
 
 - 💬 Let's talk about:
   - Rust 🦀
+  - WASM, WASI and WASMCloud 🖥️
+  - Software architecture 🎯
+  - Domain Driven Design 👨‍🎨
+  - Event Driven Architecture ✉️➡️👂
+  - Cloud Infrastructure & Infrastructure as Code ☁️🧑‍💻
+  - DevOps ♾️
   - Golang
-  - Microservice Design Patterns 👨‍🎨
-  - Event Driven Architecture
-  - Infrastructure as Code 🧑‍💻
-  - GitOps
-  - DevOps (Way-of-Working) ♾
-  - Cloud Infrastructure ☁️
   - Home Automation 🏠🦾
   - and Rock Climbing 🧗‍♂️
 
