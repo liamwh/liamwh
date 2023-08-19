@@ -30,7 +30,7 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <a href="https://terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/artwork/c2e619cdf85e8bac090ceca7c0834c5cfedf9426/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://grafana.com/oss/tempo/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="loki" width="40" height="40"/> </a>
