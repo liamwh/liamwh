@@ -16,6 +16,7 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 
 ### 🧰 My toolbox:
 
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -34,8 +35,7 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://grafana.com/oss/tempo/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="loki" width="40" height="40"/> </a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://grpc.io" target="_blank" rel="noreferrer"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="grpc" width="40" height="40"/> </a>
 <a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="openapi" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
