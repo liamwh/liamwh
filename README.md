@@ -5,7 +5,7 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 ### 💬 Let's talk about:
 
 - Rust 🦀
-- WASM, WASI and WASMCloud 🖥️
+- WebAssembly (WASM), WebAssembly System Interface (WASI) and wasmCloud 🖥️
 - Software architecture 🎯
 - Domain Driven Design 👨‍🎨
 - Event Driven Architecture ✉️➡️👂
