@@ -3,16 +3,17 @@
 I'm a DevOps-turned-Software Engineer enthusiastic about architecting and developing automated, secure and reliable software solutions.
 
 ### 💬 Let's talk about:
-  - Rust 🦀
-  - WASM, WASI and WASMCloud 🖥️
-  - Software architecture 🎯
-  - Domain Driven Design 👨‍🎨
-  - Event Driven Architecture ✉️➡️👂
-  - Cloud Infrastructure & Infrastructure as Code ☁️🧑‍💻
-  - DevOps ♾️
-  - Golang
-  - Home Automation 🏠🦾
-  - and Rock Climbing 🧗‍♂️
+
+- Rust 🦀
+- WASM, WASI and WASMCloud 🖥️
+- Software architecture 🎯
+- Domain Driven Design 👨‍🎨
+- Event Driven Architecture ✉️➡️👂
+- Cloud Infrastructure & Infrastructure as Code ☁️🧑‍💻
+- DevOps ♾️
+- Golang
+- Home Automation 🏠🦾
+- and Rock Climbing 🧗‍♂️
 
 ### 🧰 My toolbox:
 
@@ -40,10 +41,14 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
 
+### 🤝 Connect with me:
+
+<a href="https://x.com/LiamWoodleigh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Liam's x.com account" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/liamwoodleighhardinge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Liam's LinkedIn" height="40" width="40" /></a>
+<a href="mailto:liam.woodleigh@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Email Liam" height="40" width="40" /></a>
+
 ---
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:liam.woodleigh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamwoodleighhardinge/)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliamwh%2Fhit-counter)
 [![Followers](https://img.shields.io/github/followers/liamwh)](https://github.com/liamwh?tab=followers)
 
