@@ -16,7 +16,17 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 - and Rock Climbing 🧗‍♂️
 
 ### 🧰 My toolbox:
-
+<a href="https://cursor.com" target="_blank" rel="noreferrer">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*zWCTHFNFdGAgSw2d" alt="cursor" width="40" height="40"/>
+</a>
+<a href="https://claude.ai" target="_blank" rel="noreferrer">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn3er60IkUsYEwggtjVhfBE5JHcR2RACVg3w&s" alt="claude" width="40" height="40"/>
+</a>
+<a href="https://surrealdb.com" target="_blank" rel="noreferrer"> <img src="https://github.com/surrealdb/.github/raw/main/img/icon.png" alt="surrealdb" width="40" height="40"/> </a>
+<a href="https://www.cedarpolicy.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/125587672?s=200&v=4" alt="cedar policy" width="40" height="40"/> </a>
+<a href="https://www.openpolicyagent.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374039/rego.svg" alt="OPA (Open Policy Agent) & Rego" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="neovim" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
