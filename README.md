@@ -4,13 +4,14 @@ I'm a DevOps-turned-Software Engineer enthusiastic about architecting and develo
 
 ### 💬 Let's talk about:
 
-- Rust 🦀
-- WebAssembly (WASM), WebAssembly System Interface (WASI) and wasmCloud 🖥️
-- Software architecture 🎯
+- AI; Large Language Models, Large Concept Models, and anything else AI-related 🤖
+- WebAssembly (WASM), WASM System Interface (WASI), WASM Interface Types (WIT) and wasmCloud ⚙️☁️
+- Software Architecture 🎯
 - Domain Driven Design 👨‍🎨
 - Event Driven Architecture ✉️➡️👂
 - Cloud Infrastructure & Infrastructure as Code ☁️🧑‍💻
 - DevOps ♾️
+- Rust 🦀
 - Golang
 - Home Automation 🏠🦾
 - and Rock Climbing 🧗‍♂️
