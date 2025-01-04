@@ -1,6 +1,6 @@
 ## [I’m Liam](https://veloxide.dev/). Welcome to my profile! 👋
 
-I'm a DevOps-turned-Software Engineer enthusiastic about architecting and developing automated, secure and reliable software solutions.
+I'm a Software Engineer & Architect passionate about architecting and developing user-friendly, secure and reliable software solutions.
 
 ### 💬 Let's talk about:
 
