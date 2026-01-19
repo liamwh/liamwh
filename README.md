@@ -17,6 +17,9 @@ I'm a Software Engineer & Architect passionate about architecting and developing
 - and Rock Climbing 🧗‍♂️
 
 ### 🧰 My toolbox:
+<a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
+<img src="mcp.svg" alt="mcp" width="40" height="40"/>
+</a>
 <a href="https://zed.dev" target="_blank" rel="noreferrer">
 <img src="zed.svg" alt="zed" width="40" height="40"/>
 </a>
