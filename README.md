@@ -17,6 +17,9 @@ I'm a Software Engineer & Architect passionate about architecting and developing
 - and Rock Climbing 🧗‍♂️
 
 ### 🧰 My toolbox:
+<a href="https://zed.dev" target="_blank" rel="noreferrer">
+<img src="zed.svg" alt="zed" width="40" height="40"/>
+</a>
 <a href="https://cursor.com" target="_blank" rel="noreferrer">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*zWCTHFNFdGAgSw2d" alt="cursor" width="40" height="40"/>
 </a>
