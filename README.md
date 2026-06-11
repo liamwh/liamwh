@@ -37,7 +37,7 @@ I'm a Software Engineer & Architect passionate about architecting and developing
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> </a>
-<a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="chatgpt" width="40" height="40"/> </a>
+<a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="chatgpt" width="40" height="40"/> </a>
 <a href="https://claude.ai" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn3er60IkUsYEwggtjVhfBE5JHcR2RACVg3w&s" alt="claude" width="40" height="40"/>
 </a>
@@ -58,6 +58,7 @@ I'm a Software Engineer & Architect passionate about architecting and developing
 <a href="https://grpc.io" target="_blank" rel="noreferrer"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="grpc" width="40" height="40"/> </a>
 <a href="https://a2a-protocol.org/latest/" target="_blank" rel="noreferrer"> <img src="https://a2a-protocol.org/latest/assets/a2a-logo-black.svg" alt="a2a-protocol" width="40" height="40"/> </a>
 <a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="openapi" width="40" height="40"/> </a>
+<a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nix_Snowflake_Logo.svg/960px-Nix_Snowflake_Logo.svg.png" alt="nix" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
 
